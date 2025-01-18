@@ -1,6 +1,7 @@
 import streamlit as st
 import pickle
 import numpy as np
+import sklearn
 
 # Load the model and scaler
 model = pickle.load(open('runtime_model.pkl', 'rb'))

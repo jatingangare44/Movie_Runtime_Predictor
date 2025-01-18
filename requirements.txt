@@ -2,7 +2,6 @@
 streamlit
 scikit-learn
 numpy
-pickle
 
 ### local packages -
 -e . 
