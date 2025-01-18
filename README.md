@@ -1,4 +1,4 @@
-# Anime Recommendation System Using Machine Learning
+# Movie Runtime/Duration Predictor - Anime Recommendation System Using Machine Learning
 
 Recommendation systems are essential tools in today's digital era, helping users discover new content based on their preferences. In this project, we have built an anime recommendation system using machine learning, specifically leveraging **Cosine Similarity** to suggest similar animes to users based on their selected anime.
 
